@@ -17,7 +17,7 @@ In this project we use Airbnb data from Seattle and Boston to answer 3 questions
 
 The project followed the CRISP-DM methodology and is commented so it's easier to understand.
 
-There is also a Medium article about this project [here](https://medium.com/).
+There is also a Medium article about this project [here](https://medium.com/@gfmarafon/airbnb-revenue-showdown-5d3b4cd71049).
 
 ## Requirements
 The project was developed using python and jupyter in the following versions:
